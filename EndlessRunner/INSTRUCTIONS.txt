@@ -1,0 +1,13 @@
+OPEN THE GAME BY CLICKING THE CGLoopRun.exe file
+
+In the menu there press Tab to highlight the first option and press enter to select.
+Second update will allow mouse pointer on the menu screen.
+
+While in game you can you your mouse as to pause and other menu options.
+
+Character Movement:
+left right by left and right arrow keys
+jump- spacebar
+cancel jump- down arrow key
+
+
